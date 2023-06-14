@@ -3,6 +3,6 @@
   "description": "PHP SDK to streamline data pull from The One Ring API",
   "license": "MIT",
   "autoload": {
-    "psr-4": { "Musicjerm\\OneApiPhpSdk": "" }
+    "psr-4": { "Musicjerm\\OneApiPhpSdk\\": "" }
   }
 }
