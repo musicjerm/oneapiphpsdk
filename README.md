@@ -59,6 +59,9 @@ A valid request might look like `$oneClient->oneQuery('movie', '5cd95395de30eff6
 
 ## Testing
 
-PHPUnit tests are included under /tests.  To run them, make sure PHPUnit is installed `composer require --dev phpunit/phpunit`.  Then from your project directory simply run `./vendor/bin/phpunit ./vendor/musicjerm/oneapiphpsdk/tests `.
+PHPUnit tests are included under /tests.  To run them:
+1. Make sure PHPUnit is installed `composer require --dev phpunit/phpunit`.
+2. Update the api key in `tests/OneClientTest.php`.
+3. From your project directory simply run `./vendor/bin/phpunit ./vendor/musicjerm/oneapiphpsdk/tests `.
 
 For more info about PHPUnit, please visit https://docs.phpunit.de/en/10.2/index.html.
