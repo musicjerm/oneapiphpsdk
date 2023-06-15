@@ -9,7 +9,7 @@ use PHPUnit\Framework\TestCase;
 
 class OneClientTest extends TestCase
 {
-    private string $apiToken = 'HViZ7TZdmyi6BW99aHo1';
+    private string $apiToken = 'api_key_goes_here';
 
     /** @test */
     public function itQueriesUsers(): void
