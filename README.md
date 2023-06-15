@@ -3,7 +3,7 @@
 [![Author](https://img.shields.io/badge/author-@musicjerm-blue.svg)](https://www.linkedin.com/in/musicjerm/)
 [![Source Code](https://img.shields.io/badge/source-musicjerm/oneapiphpsdk-blue.svg)](https://github.com/musicjerm/oneapiphpsdk)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/thephpleague/flysystem/blob/master/LICENSE)
-![php 7.2+](https://img.shields.io/badge/php-min%208.0.2-red.svg)
+![php 8.0+](https://img.shields.io/badge/php-min%208.0.2-red.svg)
 
 ## The One SDK (for PHP) to Rule Them All
 Are you a PHP dev?  Would you like an easy library to use and pull data from the one source API to rule them all?  Are you afraid of crossing Mordor to get your own API data?  Look no further.  The One API (for PHP) has your back.  Consider this your Samwise Gamgee to help you cross the scary trenches of the Mordor API.
