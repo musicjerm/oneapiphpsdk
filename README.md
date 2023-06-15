@@ -55,7 +55,7 @@ Valid arguments are as follows:
 * $mediaId - this is the ID of one of the above movie types and will normally look like a string of characters
 * $quote - This must be *movie* or *character* and **both of the first two arguments must be passed before you may pass this one**.  This will list all the quotes from movie or character.  If the first argument is not one of these, this parameter will be ignored.
 
-A valid request might look like `$oneClient->oneQuery('movie', '5cd95395de30eff6ebccde5b', 'quote');`
+A valid request might look like `$oneClient->oneQuery('quote', '5cd96e05de30eff6ebcce9ba');`
 
 ## Testing
 
