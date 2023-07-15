@@ -2,7 +2,7 @@
 
 [![Author](https://img.shields.io/badge/author-@musicjerm-blue.svg)](https://www.linkedin.com/in/musicjerm/)
 [![Source Code](https://img.shields.io/badge/source-musicjerm/oneapiphpsdk-blue.svg)](https://github.com/musicjerm/oneapiphpsdk)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/thephpleague/flysystem/blob/master/LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/musicjerm/oneapiphpsdk/blob/main/LICENSE)
 ![php 8.0+](https://img.shields.io/badge/php-min%208.0.2-red.svg)
 
 ## The One SDK (for PHP) to Rule Them All
